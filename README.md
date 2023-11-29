@@ -1,17 +1,17 @@
-# Nicole-Previd
 <h1 align="center">Hi there, I'am Gabriel Tofanello</h1>
 <h3 align="center">A programming student, currently majoring in Information Systems at Presbiterian Institute Mackenzie  :) </h3>
 
 <p>Aspiring to be a Fullstack</p>p>
-<p>-📚 I’m currently learning - <b>Next.Js - Cypress - Tailwind -  </b></p>
+<p>-📚 I’m currently learning - <b>Next.Js - React.Js - Cypress - Tailwind -  TypeScript - Java - Python - MySQL - UML</b></p>
  
-- 📫 How to reach me **nickprevid@gmail.com**
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nii_previd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nii_previd" height="30" width="40" /></a>
-</p>
- 
+- 📫 How to reach me **gabrielstofanello@gmail.com**
+
+ <div>
+ <h3 align="left">Connect with me:</h3>
+ <p align="left">
+ </p>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gstofanello&label=Profile%20views&color=0e75b6&style=flat" alt="gstofanello" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gstofanello" alt="gstofanello" /></a> </p>
