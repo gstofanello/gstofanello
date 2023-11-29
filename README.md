@@ -1,4 +1,4 @@
-<h1">Hi there, I'am Gabriel Tofanello</h1>
+<h1>Hi there, I'am Gabriel Tofanello</h1>
 <h3 >A programming student, currently majoring in Information Systems at Presbiterian Institute Mackenzie  :) </h3>
 
 <h3>Aspiring to be a Fullstack</h3>
