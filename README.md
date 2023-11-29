@@ -1,23 +1,14 @@
 <h1 align="center">Hi there, I'am Gabriel Tofanello</h1>
 <h3 align="center">A programming student, currently majoring in Information Systems at Presbiterian Institute Mackenzie  :) </h3>
 
-<p>Aspiring to be a Fullstack</p>p>
-<p>-📚 I’m currently learning - <b>Next.Js - React.Js - Cypress - Tailwind -  TypeScript - Java - Python - MySQL - UML</b></p>
- 
-- 📫 How to reach me **gabrielstofanello@gmail.com**
-
- <div>
- <h3 align="left">Connect with me:</h3>
- <p align="left">
- </p>
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gstofanello&label=Profile%20views&color=0e75b6&style=flat" alt="gstofanello" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gstofanello" alt="gstofanello" /></a> </p>
+<h6>Aspiring to be a Fullstack</h6>
+<h6> -📚 I’m currently learning - <b>Next.Js - React.Js - Cypress - Tailwind -  TypeScript - Java - Python - MySQL - UML</b></h6>
+ - 📫 How to reach me **gabrielstofanello@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/gabriel tofanello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel tofanello" height="30" width="40" /></a>
+<a href="https://instagram.com/gstofanello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gstofanello" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
