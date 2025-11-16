@@ -1,8 +1,7 @@
 <h1>Hi there, I'am Gabriel Tofanello</h1>
 <h3 >A programming student, currently majoring in Information Systems at Presbiterian Institute Mackenzie</h3>
 
-<h3>Aspiring to be a Fullstack</h3>
-<h3> - 📚 I’m currently learning - <b>Next.Js - React.Js - Cypress - Tailwind -  TypeScript - Java - Python - MySQL - UML</b></h3>
+<h3>Aspiring to be a Data Scientist</h3>
 <h3> - 📫 How to reach me <b>gabrielstofanello@gmail.com</b></h3>
 
 <h3 align="left">Connect with me:</h3>
